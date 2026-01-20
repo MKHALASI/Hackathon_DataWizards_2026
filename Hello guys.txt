@@ -1,0 +1,2 @@
+Hello guys 
+this is the starting read me just to test if commits are working lol.
