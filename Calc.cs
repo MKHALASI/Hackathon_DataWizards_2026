@@ -6,3 +6,4 @@ public class Calc {
     }
 }
 
+// lol sorry for the mess
