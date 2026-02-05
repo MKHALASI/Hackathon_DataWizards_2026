@@ -1,3 +1,9 @@
 Hello guys 
 this is the starting read me just to test if commits are working lol.
 Yep its working
+<<<<<<< HEAD
+=======
+
+Can u hear me ?
+Yes
+>>>>>>> bad045b44c686be47d145b5868877bc7d8169dd4
