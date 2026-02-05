@@ -1,1 +1,0 @@
-print("Hello, World Rythem do your work!")
