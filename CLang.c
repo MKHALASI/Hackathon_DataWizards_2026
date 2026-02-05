@@ -8,5 +8,4 @@
         for (int i=0; i < xMax; i++) {
             printf("%d", i);
         }
-    
     }
