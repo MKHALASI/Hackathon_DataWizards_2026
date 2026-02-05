@@ -1,4 +1,5 @@
-# Created by Rythem, ask before modifying.
+# Created by Rythem, please don't modify without asking.
+# Dependencties yet to define based on required classes.
 
 CC = gcc
 CCFLAGS = -Wall -std=c99
