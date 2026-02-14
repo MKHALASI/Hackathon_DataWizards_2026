@@ -6,6 +6,6 @@
         int yMax;
 
         for (int i=0; i < xMax; i++) {
-            printf("%d  ", i);
+            printf("%d  ", i);   
         }
     }
